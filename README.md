@@ -1,2 +1,2 @@
-# default-max-screen
+# maxscreen
 Default theme with no padding/margin for Omarchy
